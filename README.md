@@ -1,4 +1,4 @@
-# MLSA X Project Wing Collaborative
+# Augmify
 
 An innovative project under MLSA X Project Wing that explores Augmented Reality (AR) advertising for Starbucks and Domino's. This prototype utilizes Niantic Lightship's AR Object Tracking, developed in Unity version **2022.3.23f1**.
 
